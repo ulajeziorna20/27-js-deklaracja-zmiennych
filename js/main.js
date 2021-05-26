@@ -1,3 +1,8 @@
 let name = 'Ula';
 
-console.log(name)
+console.log(name); 
+
+let surname = 'Jeziorna';
+
+console.log(surname);
+
